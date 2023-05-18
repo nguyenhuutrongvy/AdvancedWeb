@@ -1,0 +1,17 @@
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Services.deps.json
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Services.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Services.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Core.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Data.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Core.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\bin\Debug\net7.0\OnlineBookStore.Data.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.csproj.CopyComplete
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\refint\OnlineBookStore.Services.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\OnlineBookStore.Services.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Services\obj\Debug\net7.0\ref\OnlineBookStore.Services.dll

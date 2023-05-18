@@ -1,0 +1,12 @@
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\bin\Debug\net7.0\OnlineBookStore.Core.deps.json
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\bin\Debug\net7.0\OnlineBookStore.Core.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\bin\Debug\net7.0\OnlineBookStore.Core.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\refint\OnlineBookStore.Core.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\OnlineBookStore.Core.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Core\obj\Debug\net7.0\ref\OnlineBookStore.Core.dll

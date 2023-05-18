@@ -1,0 +1,17 @@
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Data.deps.json
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Data.runtimeconfig.json
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Data.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Data.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Core.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\bin\Debug\net7.0\OnlineBookStore.Core.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.csproj.CopyComplete
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\refint\OnlineBookStore.Data.dll
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.pdb
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\OnlineBookStore.Data.genruntimeconfig.cache
+C:\Users\NHTV\Desktop\Project\OnlineBookStore\OnlineBookStore.Data\obj\Debug\net7.0\ref\OnlineBookStore.Data.dll
